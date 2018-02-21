@@ -1,0 +1,25 @@
+color:
+  brandColors:
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
+  brandStrength: 0.45305044017732143
+  lightness: 0.5339494764339179
+  saturation: 0.9825531737878919
+  rhythmicContrast: 0.41421918757259846
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Istrat.tn
+layout_spectrum: 0.7676740356255323
+typography_spectrum: 0.23907242948189378
+content: []
+title: JALAN PASS
+description: PORTAL INFORMASI
+github: true
